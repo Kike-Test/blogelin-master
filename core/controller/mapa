@@ -1,0 +1,18 @@
+<?php
+<section class="contenedor-columnas">
+		<div class="columnasx3" >
+		  <h4  style="color:black">Informacíon</h4>
+			<p  style="color:black">Km. 22, Carretera Tenango - La Marquesa Santiago Tilapa, Santiago Tiangistenco, 52650, Méx.</p>
+<p  style="color:black"><strong>Contacto</strong></p>
+<p  style="color:black">Teléfono: 713 13 5 09 00</p>
+</div>
+
+<br>
+	<br>
+	<br>
+
+<section>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.0300047162523!2d-99.43191658477411!3d19.19389178702031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdf10d9607bdf9%3A0xdb94e12a5c67fd75!2sTecNM%20-%20Tecnol%C3%B3gico%20de%20Estudio%20Superiores%20de%20Tianguistenco!5e0!3m2!1ses-419!2smx!4v1607966820517!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+</section>
+
+?>
